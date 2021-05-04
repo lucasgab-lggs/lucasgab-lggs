@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Java, Javascript, MySQL, HTML and CSS**
 
-- 📫 How to reach me **lucasgab.lggs@gmail.com**
+- 📫 How to contact me **lucasgab.lggs@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
