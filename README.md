@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas Gabriel</h1>
 <h3 align="center">A passionate developer and student from Brazil.</h3>
 
-- 🌱 I’m currently learning **Python, Node.JS, React.JS, Blockchain and Cybersecurity**
+- 🌱 I’m currently learning **Python, Node.JS, React.JS, Data Science with Python, Blockchain and Cybersecurity**
 
 - 💬 Ask me about **Java, Javascript, MySQL, HTML and CSS**
 
