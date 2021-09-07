@@ -30,4 +30,7 @@
   ![Snake animation](https://github.com/lucasgab-lggs/lucasgab-lggs/blob/output/github-contribution-grid-snake.svg)
 </div>
   
- 
+<h1>O que estou ouvindo:</h1>
+<div style="display: inline_block"><br>
+  <img alt="Lucas-Spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=lbr27497&cover_image=false&theme=default">
+</div>
