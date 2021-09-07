@@ -31,4 +31,6 @@
 </div>
   
 <h1>Now playing:</h1>
-[![Spotify](https://novatorem-lucasgab-lggs.vercel.app/api/spotify)](https://open.spotify.com/user/lbr27497)
+<div>
+<img align="center" alt="Lucas-Spotify" src="https://novatorem-lucasgab-lggs.vercel.app/api/spotify">
+</div>
