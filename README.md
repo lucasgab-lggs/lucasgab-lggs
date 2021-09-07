@@ -27,10 +27,8 @@
   <a href="https://www.linkedin.com/in/lucasgab-lggs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://open.spotify.com/user/lbr27497" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 
-  ![Snake animation](https://github.com/lucasgab-lggs/lucasgab-lggs/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/lucasgab-lggs/lucasgab-lggs/blob/output/github-contribution-grid-snake.svg)
 </div>
   
-<h1>O que estou ouvindo:</h1>
-<div style="display: inline_block"><br>
-  <img alt="Lucas-Spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=lbr27497&cover_image=false&theme=default">
-</div>
+<h1>Now playing:</h1>
+[![Spotify](https://novatorem-lucasgab-lggs.vercel.app/api/spotify)](https://open.spotify.com/user/lbr27497)
