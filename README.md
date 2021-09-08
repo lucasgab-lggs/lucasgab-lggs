@@ -29,8 +29,3 @@
 
 ![Snake animation](https://github.com/lucasgab-lggs/lucasgab-lggs/blob/output/github-contribution-grid-snake.svg)
 </div>
-  
-<h1>Now playing:</h1>
-<div>
-<img align="center" alt="Lucas-Spotify" src="https://novatorem-lucasgab-lggs.vercel.app/api/spotify">
-</div>
