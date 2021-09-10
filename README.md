@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Lucas Gabriel</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Lucas Gabriel!</h1>
 
 - 🌱 I’m currently learning **Python, React, Spring, Blockchain and Cybersecurity**
 - 💬 Ask me about **Java, Javascript, MySQL, HTML and CSS**
